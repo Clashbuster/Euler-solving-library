@@ -1,5 +1,5 @@
 # Euler-solving-library
-A number of functions that will help you solve project Euler problems
+This is a library of functions that will help you solve project Euler problems
 
 This is a small and incomplete library which will help you solve some Project Euler problems.
 I plan to expand on this library in the future, but for now it only has a handful of functions.
