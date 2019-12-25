@@ -12,7 +12,8 @@ I plan to expand on this library in the future, but for now it only has a handfu
 In order to use this Library. I would reccomend you first, clone the ts file into whatever repository you are using.
 Then, you can either write your logic in the same file, or you can import the library to another typescript file using the following syntax.
 
-```import { eullersLibrary } from "./eullersLibrary";
+```
+import { eullersLibrary } from "./eullersLibrary";
 
 let math = new eullersLibrary
 
