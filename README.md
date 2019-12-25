@@ -16,8 +16,12 @@ Then, you can either write your logic in the same file, or you can import the li
 
 let math = new eullersLibrary
 
-math.primeSieve(2000000); // => Array of primess```
+math.primeSieve(2000000); // => Array of primess
+
+```
 
 If it gives you a file read error, you will need to copy the path of the ts file you cloned and put it at this location 
 
-```from "([path to Euler-solving-library file])";```
+```
+from "([path to Euler-solving-library file])";
+```
